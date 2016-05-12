@@ -1,2 +1,2 @@
-# instructor
-test-app for instructor
+# instructor application
+Test github application for testing of the phone application
